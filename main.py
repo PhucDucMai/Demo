@@ -3,3 +3,4 @@ if __name__ == '__main__':
     with open(file_name, mode="r") as f:
         data = f.read()
         print(data)
+        print("Type of data: ", type(data))
