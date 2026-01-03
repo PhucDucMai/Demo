@@ -3,4 +3,7 @@ if __name__ == '__main__':
     with open(file_name, mode="r") as f:
         data = f.read()
         print(data)
+        print("What the fuck do you want bro")
+        print("Are you fucking kidding me?")
+        print("Get the fuck out of here")
         print("Type of data: ", type(data))
