@@ -1,0 +1,1 @@
+print("Mercy None Bro")

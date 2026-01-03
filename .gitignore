@@ -1,0 +1,10 @@
+# Match all files with a specific extension is .log -> Ignore all files with extension is .log
+*.log
+
+/src/truth.txt
+
+# Match all files with a specific extension is .env -> Ignore all files with extension is .env
+*.env
+
+# Match all files with a specific extension is .yaml -> Ignore all fiels with extension is .yaml
+*.yaml
