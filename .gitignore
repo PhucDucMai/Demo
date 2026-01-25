@@ -4,7 +4,7 @@
 /src/truth.txt
 
 # Match all files with a specific extension is .env -> Ignore all files with extension is .env
-# *.env
+*.env
 
 # Match all files with a specific extension is .yaml -> Ignore all fiels with extension is .yaml
 *.yaml
